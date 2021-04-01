@@ -1,0 +1,508 @@
+[
+  {
+    "docsType": "International Journals",
+    "authorList": "Linh Van Ma, Jaehyung Park, Jiseung Nam, Hoyoung Ryu and Jinsul Kim",
+    "title": "A Fuzzy-Based Adaptive Streaming Algorithm for Reducing Entropy Rate of DASH Bitrate Fluctuation to Improve Mobile Quality of Service",
+    "journalConferName": "Entropy",
+    "year": "2017",
+    "month": "09",
+    "day": "07",
+    "docsLink": "https://www.mdpi.com/1099-4300/19/9/477",
+    "volNoPP": "Vol.19, No.9, pp477-481",
+    "docsFile": "2017.09.07_A Fuzzy-Based Adaptive Streamin.pdf"
+  },
+  {
+    "docsType": "International Journals",
+    "authorList": "Linh Van Ma, Jaehyung Park, Jiseung Nam, Jonghyun Jang, Jinsul Kim",
+    "title": "An Efficient Scheduling Multimedia Transcoding Method for DASH Streaming in Cloud Environment",
+    "journalConferName": "Cluster Computing",
+    "year": "2017",
+    "month": "10",
+    "day": "23",
+    "docsLink": "https://link.springer.com/article/10.1007/s10586-017-1259-8",
+    "volNoPP": "Online: 23 October 2017",
+    "docsFile": "2017.10.23_A Context-aware adaptive algorithm for ambien.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Jinsul Kim, Yonggwan Won, Changwoo Yoon, Jin-Young Kim, Sangho Park, JaeCheol Ryou, Linh Van Ma",
+    "title": "A Context-aware adaptive algorithm for ambient intelligence DASH at mobile edge computing",
+    "journalConferName": "Journal of Ambient Intelligence and Humanized Computing",
+    "year": "2018",
+    "month": "09",
+    "day": "21",
+    "docsLink": "https://link.springer.com/article/10.1007/s12652-018-1049-z",
+    "volNoPP": "First Online: 21 September 2018",
+    "docsFile": "2018.09.21_A Context-aware adaptive algorithm for ambien.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Linh Van Ma, Gwanghyun Yu, Jin-Young Kim, Yonggwan Won and Jinsul Kim",
+    "title": "An efficient transmission method based on HEVC multi-view adaptive video streaming over P2P network in NFV",
+    "journalConferName": "The Journal of Supercomputing",
+    "year": "2018",
+    "month": "12",
+    "day": "01",
+    "docsLink": "https://link.springer.com/journal/11227",
+    "volNoPP": "Vol.74, No.12, pp6939-6959",
+    "docsFile": "5.An efficient transmission method based on HEVC multi-view adaptive video streaming over P2P network in NFV.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Tran Thi Thu Ha, Jinsul Kim, Jiseung Nam",
+    "title": "Design and Deployment of Low-Delay Hybrid CDN?P2P Architecture for Live Video Streaming Over the Web",
+    "journalConferName": "Wireless Personal Communications",
+    "year": "2017",
+    "month": "06",
+    "day": "01",
+    "docsLink": "https://link.springer.com/article/10.1007/s11277-015-3144-1",
+    "volNoPP": "Vol.94, Issue.3, pp513-525",
+    "docsFile": "Ha2017_Article_DesignAndDeploymentOfLow-Delay.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Dongjun Suh, Ilmin Kim, Jinsul Kim",
+    "title": "A Knowledge-Based Energy Management Model that Supports Smart Metering Networks for Korean Residential Energy Grids",
+    "journalConferName": "Wireless Personal Communications",
+    "year": "2017",
+    "month": "06",
+    "day": "01",
+    "docsLink": "https://link.springer.com/article/10.1007/s11277-015-3090-y",
+    "volNoPP": "Vol.94, Issue.3, pp431-444",
+    "docsFile": "Suh2017_Article_AKnowledge-BasedEnergyManageme.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Sanghyun Park, Hoyong Ryu, Kuinam J. Kim, Jinsul Kim",
+    "title": "Cloud System for User-Customized Mobile Interface Sharing in Wireless Environment",
+    "journalConferName": "Wireless Personal Communications",
+    "year": "2017",
+    "month": "05",
+    "day": "01",
+    "docsLink": "https://link.springer.com/article/10.1007/s11277-015-3161-0",
+    "volNoPP": "Vol.94, Issue.2, pp149-164",
+    "docsFile": "Park2017_Article_CloudSystemForUser-CustomizedM.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Hye-Young Kim, Jinsul Kim",
+    "title": "An Energy-Efficient Balancing Scheme in Wireless Sensor Networks",
+    "journalConferName": "Wireless Personal Communications",
+    "year": "2017",
+    "month": "05",
+    "day": "01",
+    "docsLink": "https://link.springer.com/article/10.1007/s11277-015-3161-0",
+    "volNoPP": "Vol.94, Issue.1, pp17-29",
+    "docsFile": "Kim-Kim2017_Article_AnEnergy-EfficientBalancingSch.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Hwasung Kim, Sangil Kim, Hoyong Ryu, JaeHyung Park, Jinsul Kim",
+    "title": "A BGP session takeover method for high availability based on virtualization technique",
+    "journalConferName": "Cluster Computing",
+    "year": "2017",
+    "month": "03",
+    "day": "03",
+    "docsLink": "https://link.springer.com/article/10.1007/s10586-017-0771-1",
+    "volNoPP": "Vol.20, Issue.1, pp817-833",
+    "docsFile": "Kim2017_Article_ABGPSessionTakeoverMethodForHi.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Ha Thi Thu Tran, Yonggwan Won, Jinsul Kim",
+    "title": "An efficient hybrid push-pull methodology for peer-to-peer video live streaming system on mobile broadcasting social media",
+    "journalConferName": "Multimedia Tools and Applications",
+    "year": "2017",
+    "month": "01",
+    "day": "17",
+    "docsLink": "https://1link.springer.com/article/10.1007/s11042-016-3249-x",
+    "volNoPP": "Vol.76, Issue.2, pp2557-2568",
+    "docsFile": "Tran2017_Article_AnEfficientHybridPush-pullMeth.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Linh Van Ma, Jisue Kim, Sanghyun Park, Jinsul Kim, Jonghyeon Jang",
+    "title": "An efficient Session_Weight load balancing and scheduling methodology for high-quality telehealth care service based on WebRTC",
+    "journalConferName": "The Journal of Supercomputing",
+    "year": "2016",
+    "month": "10",
+    "day": "15",
+    "docsLink": "https://link.springer.com/article/10.1007/s11227-016-1636-8",
+    "volNoPP": "Vol.72, Issue.10, pp3909-3926",
+    "docsFile": "Ma2016_Article_AnEfficientSessionWeightLoadBa.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Gemoh Maliva Tihfon, Sanghyun Park, Jinsul Kim, Yong-Min Kim",
+    "title": "An Efficient Multi-task PaaS Cloud Infrastructure based on Docker and AWS ECS for Application Deployment",
+    "journalConferName": "Cluster Computing",
+    "year": "2016",
+    "month": "09",
+    "day": "01",
+    "docsLink": "https://link.springer.com/article/10.1007/s10586-016-0599-0",
+    "volNoPP": "Vol.16, Issue.3, pp1585-1597",
+    "docsFile": "Tihfon2016_Article_AnEfficientMulti-taskPaaSCloud.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Sanghyun Park, Jisue Kim, Gemoh Maliva Tihfon, Ho-Yong Ryu, Jinsul Kim",
+    "title": "Dynamic multimedia transmission control virtual machine using weighted Round-Robin",
+    "journalConferName": "Cluster Computing",
+    "year": "2016",
+    "month": "03",
+    "day": "07",
+    "docsLink": "https://link.springer.com/article/10.1007/s10586-015-0524-y",
+    "volNoPP": "Vol.19, Issue.1, pp293-300",
+    "docsFile": "Park2016_Article_DynamicMultimediaTransmissionC.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Tai-Won Um, Gyu Myoung Lee, Jinsul Kim",
+    "title": "SDN-Based Active Content Networking",
+    "journalConferName": "INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS",
+    "year": "2016",
+    "month": "01",
+    "day": "04",
+    "docsLink": "https://journals.sagepub.com/doi/full/10.1155/2016/1603239",
+    "volNoPP": "Vol.12, Issue.1, 916416(1)-916416(6)",
+    "docsFile": "2016_1603239.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Sanghyun Park, Gemoh Maliva Tihfon, Seonhyeok Lee, Jinsul Kim",
+    "title": "Optimized Data Transmission Method for Multimedia Services Based on OpenStack",
+    "journalConferName": "Information Science and Applications (ICISA) 2016",
+    "year": "2016",
+    "month": "02",
+    "day": "16",
+    "docsLink": "https://journals.sagepub.com/doi/full/10.1155/2016/1603239",
+    "volNoPP": "LNEE, volume 376, pp 1321-1329",
+    "docsFile": "Optimized+Data+Transmission+Method+for+Multimedia+Services+based+OpenStack.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Gemoh Maliva Tihfon, Jinsul Kim, Kuinam J. Kim",
+    "title": "A New Virtualized Environment for Application Deployment Based on Docker and AWS",
+    "journalConferName": "Information Science and Applications (ICISA) 2016",
+    "year": "2016",
+    "month": "02",
+    "day": "16",
+    "docsLink": "https://link.springer.com/chapter/10.1007/978-981-10-0557-2_126",
+    "volNoPP": "LNEE, volume 376, pp 1339-1349",
+    "docsFile": "A+New+Virtualized+Environment+for+Application+Deployment+based+on+Docker+and+AWS.pdf"
+  },
+
+  {
+    "docsType": "International Journals",
+    "authorList": "Jisue Kim, Linh Ma Van, Jinsul Kim",
+    "title": "Load Balancing Methodology for Efficient Real-Time Streaming Service Based on WebRTC",
+    "journalConferName": "Information Science and Applications (ICISA) 2016",
+    "year": "2016",
+    "month": "02",
+    "day": "16",
+    "docsLink": "https://link.springer.com/chapter/10.1007/978-981-10-0557-2_125",
+    "volNoPP": "LNEE, volume 376, pp 1331-1337",
+    "docsFile": "Load+Balancing+Methodology+for+Efficient+Real-time+Streaming+Service+Based+on+WebRTC.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "SeungMin Oh, Akm Ashiquzzaman, DongSu Lee, Jaehyung Park and Jinsul Kim ",
+    "title": "A Survey on Virtualized Platform for Multi-Access Edge Computing (MEC) Technology",
+    "journalConferName": "August 2019 1st Domestic and International Integration Conference",
+    "year": "2019",
+    "month": "08",
+    "day": "18",
+    "docsLink": "http://www.socori.org/index.asp",
+    "docsFile": "8월학술대회 논문집_공식프로시딩.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Akm Ashiquzzaman, Seung Min Oh, Dongsu Lee, Hoehyeong Jung, Tai-won Um and Jinsul Kim",
+    "title": "Deeplearning Convolutional Neural Network based QoE Assessment Module for 4K UHD Video Streaming",
+    "journalConferName": "SMULTECH 2019",
+    "year": "2019",
+    "month": "07",
+    "day": "29",
+    "docsLink": "http://www.insticc.org/node/TechnicalProgram/simultech/presentationDetails/81179",
+    "docsFile": "SIMULTECH 2019_프로시딩.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Akm Ashiquzzaman, Linh Van Ma, SangWoo Kim,Dongsu Lee, Tai-Won Um, Jinsul Kim",
+    "title": "Compacting Deep Neural Networks for Light Weight IoT & SCADA Based Applications with Node Pruning",
+    "journalConferName": "Asia-Pacific Academic and Industrial Services(APAIS), IEEE ICAIIC 2019",
+    "year": "2019",
+    "month": "02",
+    "day": "11",
+    "docsLink": "https://ieeexplore.ieee.org/document/8669031",
+    "docsFile": "2017.03.21_A Fuzzy-based Method for Reducing Mobile Video-.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Kwangki kim, Kiho Kim, Jinsul Kim",
+    "title": "A Study on Realistic Audio Sound Generation according to User's Movement in Virtual Reality System",
+    "journalConferName": "ICIIT 2019 CONFERENCE ABSTRACT",
+    "year": "2019",
+    "month": "02",
+    "day": "22",
+    "docsLink": "https://dl.acm.org/citation.cfm?id=3321455",
+    "docsFile": "01_D2001.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Kwangki kim, Kiho Kim, Jinsul Kim",
+    "title": "Cooperating SDN and MEC for Lowering Latency of Adaptive Ultra-high Video Streaming in NFV",
+    "journalConferName": "IEEE Consumer Communications & Networking Conference",
+    "year": "2019",
+    "month": "01",
+    "day": "11",
+    "docsLink": "https://ccnc2019.ieee-ccnc.org/program/workshops",
+    "docsFile": "CCNC2019-라스베가스.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Jinsul Kim, Akm Ashiquzzaman, Van Quan Nguyen, Sang Woo Kim",
+    "title": "Hybrid Mobile-App. on Multi-MEC Platforms in NFV Environment",
+    "journalConferName": "International Journal of Engineering & Technology(IJET)",
+    "year": "2019",
+    "month": "01",
+    "day": "03",
+    "docsLink": "https://www.sciencepubco.com/index.php/ijet/article/view/24587",
+    "docsFile": "하와이-RTCSE-IJET-24587-게재본.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma, Van Quan Nguyen, Jaehyung Park, Jinsul Kim",
+    "title": "An Application of Reinforcement Learning Algorithm at MEC for 4K Adaptive Video Streaming in NFV",
+    "journalConferName": "DigiCon-18",
+    "year": "2018",
+    "month": "10",
+    "day": "05",
+    "docsLink": "https://www.semanticscholar.org/paper/NFV-Based-Mobile-Edge-Computing-for-Lowering-of-4K-Ma-Nguyen/05c7cc41f6eab9978586afcc04fe00dd9afa40d1",
+    "docsFile": "14.An Application of Reinforcement Learning Algorithm at MEC for 4K Adaptive Video Streaming in NFV.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Seonhyuk Lee, Jin Sul Kim, and Jaehyung Park",
+    "title": "An Efficient Distributed DoS Detection Scheme using a Bloom Filter in VANETs",
+    "journalConferName": "DigiCon-18",
+    "year": "2018",
+    "month": "10",
+    "day": "05",
+    "docsLink": "http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07253916&language=ko_KR",
+    "docsFile": "24.An Efficient Distributed DoS Detection Scheme using a Bloom Filter in VANETs.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Van Quan Nguyen, Linh Van Ma, Jin-young Kim, Kwangki Kim, Jinsul Kim",
+    "title": "Applications of Anomaly Detection Using Deep Learning on Time Series Data",
+    "journalConferName": "2018 IEEE 16th Intl Conf on Dependable, Autonomic and Secure Computing, 16th Intl Conf on Pervasive Intelligence and Computing, 4th Intl Conf on Big Data Intelligence and Computing and Cyber Science and Technology Congress(DASC/PiCom/DataCom/CyberSciTech)",
+    "year": "2018",
+    "month": "09",
+    "day": "24",
+    "docsLink": "https://ieeexplore.ieee.org/abstract/document/8511921/authors#authors",
+    "docsFile": "12.Applications of Anomaly Detection using Deep Learning on Time Series Data.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Kwangki Kim, Kiho Kim, Seungmin Oh and Jinsul Kim",
+    "title": "Coding Structure for Ultra Multi-channel Audio",
+    "journalConferName": "2018 IEEE 16th Intl Conf on Dependable, Autonomic and Secure Computing, 16th Intl Conf on Pervasive Intelligence and Computing, 4th Intl Conf on Big Data Intelligence and Computing and Cyber Science and Technology Congress(DASC/PiCom/DataCom/CyberSciTech)",
+    "year": "2018",
+    "month": "07",
+    "day": "19",
+    "docsLink": "http://www.guide2research.com/conference/icce-2018",
+    "docsFile": "Coding Structure for Ultra Multi-channel Audio.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma, Van Quan Nguyen, Jaehyung Park, Jinsul Kim",
+    "title": "NFV-Based Mobile Edge Computing for Lowering Latency of 4K Video Streaming",
+    "journalConferName": "ICUFN 2018",
+    "year": "2018",
+    "month": "07",
+    "day": "03",
+    "docsLink": "https://www.semanticscholar.org/paper/NFV-Based-Mobile-Edge-Computing-for-Lowering-of-4K-Ma-Nguyen/05c7cc41f6eab9978586afcc04fe00dd9afa40d1",
+    "docsFile": "10.NFV-Based Mobile Edge Computing for Lowering Latency of 4K Video Streaming.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Tai-Won Um, Jinsul Kim, Hyun-Woo Lee",
+    "title": "Distributed Big Video Processing",
+    "journalConferName": "The 5th International Conference on Small & Medium Business",
+    "year": "2018",
+    "month": "01",
+    "day": "19",
+    "docsLink": "http://www.wasmeinfo.org/",
+    "docsFile": "4.Distributed Big Video Processing.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Changwoo Yoon, Jinsul Kim, Hyunwoo Lee",
+    "title": "A study on the convergence of brain science and artificial intelligence in terms of highly reliable trustworthy IoT ecosystem",
+    "journalConferName": "The 5th International Conference on Small & Medium Business",
+    "year": "2018",
+    "month": "01",
+    "day": "19",
+    "docsLink": "http://www.wasmeinfo.org/",
+    "docsFile": "2.A study on the convergence of brain science and artificial intelligence in terms of highly reliable trustworthy IoT ecosystem .pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma, Jinsul Kim, Jin-young Kim, Yonggwan Won, Jonghyun Jang,Kwangki Kim",
+    "title": "An Efficient Fuzzy-based Resource Allocation Method in NFV",
+    "journalConferName": "The 5th International Conference on Small & Medium Business",
+    "year": "2018",
+    "month": "01",
+    "day": "19",
+    "docsLink": "http://www.wasmeinfo.org/",
+    "docsFile": "1.An Efficient Fuzzy-based Resource Allocation Method in NFV.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Taeheum Na, Pyungkoo Park, Hoyong Ryu, Jaecheol Ryou, Jinsul Kim and JaehyungPark",
+    "title": "Dynamic Load Balancing in Heterogeneous Interfaces",
+    "journalConferName": "The 5th International Conference on Small & Medium Business",
+    "year": "2018",
+    "month": "01",
+    "day": "19",
+    "docsLink": "http://www.wasmeinfo.org/",
+    "docsFile": "4.Distributed Big Video Processing.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma, Jaehyung Park, Su-il Choi, Taeksoo Ji, Yonggwan Won, GeunChang Choi, Jinsul Kim",
+    "title": "A Research on Edge Computing and Blockchain-based IoT for Disaster Recovery and Prevention",
+    "journalConferName": "The 3rd International Conference on Next Generation Computing",
+    "year": "2017",
+    "month": "12",
+    "day": "23",
+    "docsLink": "http://www.kingpc.or.kr/icngc2017b/index.html",
+    "docsFile": "2017.12.21_Taiwan_ICNGC_A Research on Edge Computing.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma, Jin-Young Kim, Jonghyun Jang, Gwanghyun Yu, Jinsul Kim",
+    "title": "A Study on Reducing Entropy Rate of Adaptive Streaming Bitrate Fluctuation",
+    "journalConferName": "The 12th KIPS International Conference on Ubiquitous Information Technologies and Applications (CUTE 2017)",
+    "year": "2017",
+    "month": "12",
+    "day": "19",
+    "docsLink": "http://cute-conference.org/2017/",
+    "docsFile": "2107.12.17_23_Taiwan_CUTE_Reducing Entropy Rate.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma,Yonggwan Won, Taeksoo Ji, Sung-Hoon Hong, GeunChang Choi,Jinsul Kim",
+    "title": "A Study on Reducing Entrophy Rate of Adaptive Streaming Bitrate Fluctuation  ",
+    "journalConferName": "The 12th KIPS International Conference on Ubiquitous Information Technologies and Applications (CUTE 2017)",
+    "year": "2017",
+    "month": "12",
+    "day": "19",
+    "docsLink": "http://cute-conference.org/2017/",
+    "docsFile": "A Research on an Intelligent Urban Disaster Control with an Integrated Management and Monitoring System Using IoT Smart Sensors.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma, Jin-Young Kim, Jonghyun Jang, Gwanghyun Yu, Jinsul Kim",
+    "title": "A Study on Adaptive Based HEVC 3D Multi-view Video Streaming over P2P Network",
+    "journalConferName": "The 12th KIPS International Conference on Ubiquitous Information Technologies and Applications (CUTE 2017)",
+    "year": "2017",
+    "month": "12",
+    "day": "19",
+    "docsLink": "http://cute-conference.org/2017/",
+    "docsFile": "A Study on Adaptive Based HEVC 3D Multi-view Video Streaming over P2P Network.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma, Jaehyung Park, Suil Choi, Yonggwan Won, Jinsul Kim",
+    "title": "An Efficient Resource Management Method for DASH Streaming in Cloud Environment",
+    "journalConferName": "The International Conference on Big data, IoT, and Cloud Computing (BIC 2017)",
+    "year": "2017",
+    "month": "08",
+    "day": "22",
+    "docsLink": "https://uia.org/s/or/en/1122281219",
+    "docsFile": "[MA+VAN+LINH]+2017_Jeju_BIC.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma, Sanghyun Park, JaeHyung Park, Jiseung Nam, Jonghyun Jang, Jinsul Kim",
+    "title": "A Fuzzy-based Method for Reducing Mobile Video-quality Fluctuation",
+    "journalConferName": "The 2017 2nd Special Issue International Workshop on Information Theory and 5G Technologies)",
+    "year": "2017",
+    "month": "03",
+    "day": "23",
+    "docsLink": "http://www.bic-conference.org/2017//",
+    "docsFile": "WORK-(170309-20)-(LinhVanMa).pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma, Sanghyun Park, Jinsul Kim",
+    "title": "A Flexible Method for Sharing Network Bandwidth Utilization in Local Network by Applying the Advantage of Fuzzy Control:An Example on WebRTC Streaming",
+    "journalConferName": "ICOMP'16 - The 17th International Conference on Internet Computing and Internet of Things",
+    "year": "2016",
+    "month": "07",
+    "day": "25",
+    "docsLink": "https://worldcomp.org/events/2016/conferences/icomp2016",
+    "docsFile": "A+Flexible+Method+for+Sharing+Network+Bandwidth+Utilization+in+Local+Network+by+Applying+the+Advantage+of+Fuzzy+Control_An+Example+on+WebRTC+Streaming.pdf"
+  },
+
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Linh Van Ma, Sanghyun Park, Jinsul Kim",
+    "title": "Dividing Transmission Method for Multimedia Service Using OpenStack",
+    "journalConferName": "ICOMP'16 - The 17th International Conference on Internet Computing and Internet of Things",
+    "year": "2016",
+    "month": "07",
+    "day": "25",
+    "docsLink": "https://worldcomp.org/events/2016/conferences/icomp2016",
+    "docsFile": "1.Dividing+Transmission+Method+for+Multimedia+Service+Using+OpenStack.pdf"
+  },
+  {
+    "docsType": "International Conferences and Workshops",
+    "authorList": "Younho Jung, Seonhyuk Lee, Su-il Choi, Cheol Hong Kim, Jinsul Kim, Kyungran Kang, Jaehyung Park",
+    "title": "Cost-Effective Multicast Routing with Mult-Gateway in Wireless Mesh Networks",
+    "journalConferName": "Proc. of the 7th Int'l Conference on Information Science and Applications",
+    "year": "2016",
+    "month": "07",
+    "day": "25",
+    "docsLink": "https://worldcomp.org/events/2016/conferences/icomp2016",
+    "docsFile": "ICISA+2016+프로시딩+(4).pdf"
+  }
+]
